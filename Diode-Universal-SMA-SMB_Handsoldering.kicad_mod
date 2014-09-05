@@ -1,5 +1,4 @@
-(module Diode-Universal-SMA-SMB_Handsoldering_RevA_27July2010 (layer F.Cu)
-  (at 0 0)
+(module Diode-Universal-SMA-SMB_Handsoldering_RevA_27July2010 (layer F.Cu) (tedit 5403E51A)
   (descr "Diode, Universal, SMA, SMB, Handsoldering,")
   (tags "Diode, Universal, SMA, SMB, Handsoldering,")
   (attr smd)
@@ -35,4 +34,9 @@
   (fp_line (start -2.25044 -1.75006) (end 2.25044 -1.75006) (layer F.SilkS) (width 0.381))
   (pad 1 smd trapezoid (at -2.90068 0) (size 3.60172 1.69926) (rect_delta 0.59944 0 ) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd trapezoid (at 2.90068 0 180) (size 3.60172 1.69926) (rect_delta 0.59944 0 ) (layers F.Cu F.Paste F.Mask))
+  (model smd/do214.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

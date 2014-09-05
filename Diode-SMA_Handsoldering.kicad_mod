@@ -1,5 +1,4 @@
-(module Diode-SMA_Handsoldering_RevA_27July2010 (layer F.Cu)
-  (at 0 0)
+(module Diode-SMA_Handsoldering_RevA_27July2010 (layer F.Cu) (tedit 5403E4F0)
   (descr "Diode SMA Handsoldering")
   (tags "Diode SMA Handsoldering")
   (attr smd)
@@ -28,9 +27,9 @@
   (fp_line (start -2.25044 -1.75006) (end 2.25044 -1.75006) (layer F.SilkS) (width 0.381))
   (pad 1 smd rect (at -2.49936 0) (size 3.50012 1.80086) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 2.49936 0) (size 3.50012 1.80086) (layers F.Cu F.Paste F.Mask))
-  (model SMA_Faktor03937_RevA_06Sep2012.wrl
+  (model smd/do214.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.3937 0.3937 0.3937))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )
