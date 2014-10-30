@@ -1,4 +1,4 @@
-(module Diode-SMC_Standard_RevA_26July2010 (layer F.Cu)
+(module Diode-SMC_Standard (layer F.Cu)
   (at 0 0)
   (descr "Diode SMC Standard")
   (tags "Diode SMC Standard")
@@ -6,7 +6,7 @@
   (fp_text reference D (at 0 -5.08) (layer F.SilkS)
     (effects (font (thickness 0.3048)))
   )
-  (fp_text value Diode-SMC_Standard_RevA_26July2010 (at 0 5.08) (layer F.SilkS) hide
+  (fp_text value Diode-SMC_Standard (at 0 5.08) (layer F.SilkS) hide
     (effects (font (thickness 0.3048)))
   )
   (fp_circle (center 0 0) (end 0.7493 0.35052) (layer F.Adhes) (width 0.381))
@@ -28,7 +28,7 @@
   (fp_line (start -3.59918 -3.40106) (end 3.59918 -3.40106) (layer F.SilkS) (width 0.381))
   (pad 1 smd rect (at -3.40106 0 90) (size 3.29946 2.49936) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 3.40106 0 90) (size 3.29946 2.49936) (layers F.Cu F.Paste F.Mask))
-  (model SMC_Faktor03937_RevA_06Sep2012.wrl
+  (model Diodes_SMD/Diode-SMC.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))

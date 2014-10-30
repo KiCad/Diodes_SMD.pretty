@@ -1,4 +1,4 @@
-(module Diode-SMB_Standard_RevA_26July2010 (layer F.Cu)
+(module Diode-SMB_Standard (layer F.Cu)
   (at 0 0)
   (descr "Diode SMB Standard")
   (tags "Diode SMB Standard")
@@ -6,7 +6,7 @@
   (fp_text reference D (at 0 -3.81) (layer F.SilkS)
     (effects (font (thickness 0.3048)))
   )
-  (fp_text value Diode-SMB_Standard_RevA_26July2010 (at 0 3.81) (layer F.SilkS) hide
+  (fp_text value Diode-SMB_Standard (at 0 3.81) (layer F.SilkS) hide
     (effects (font (thickness 0.3048)))
   )
   (fp_text user A (at -3.2004 1.95072) (layer F.SilkS)
@@ -33,7 +33,7 @@
   (fp_line (start 2.30124 -1.99898) (end 2.30124 -1.80086) (layer F.SilkS) (width 0.381))
   (pad 1 smd rect (at -2.14884 0) (size 2.49936 2.30124) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 2.14884 0) (size 2.49936 2.30124) (layers F.Cu F.Paste F.Mask))
-  (model SMB_Faktor03937_RevA_06Sep2012.wrl
+  (model Diodes_SMD/Diode-SMB.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
