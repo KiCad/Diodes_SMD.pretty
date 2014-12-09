@@ -3,11 +3,11 @@
   (descr "Diode MELF Handsoldering")
   (tags "Diode MELF Handsoldering")
   (attr smd)
-  (fp_text reference D (at 0 -2.54) (layer F.SilkS)
-    (effects (font (thickness 0.3048)))
+  (fp_text reference Diode-MELF_Handsoldering (at 0 -2.54) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Diode-MELF_Handsoldering (at 0 3.81) (layer F.SilkS) hide
-    (effects (font (thickness 0.3048)))
+  (fp_text value VAL** (at 0 3.81) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -0.39878 0) (end -1.09982 0) (layer F.SilkS) (width 0.15))
   (fp_line (start 0.55118 0) (end 1.09982 0) (layer F.SilkS) (width 0.15))
@@ -17,10 +17,10 @@
   (fp_line (start -0.39878 -0.8001) (end -0.39878 0.8001) (layer F.SilkS) (width 0.15))
   (fp_line (start -0.39878 0.8001) (end 0.55118 0) (layer F.SilkS) (width 0.15))
   (fp_text user A (at -2.55016 2.04978) (layer F.SilkS)
-    (effects (font (size 0.50038 0.50038) (thickness 0.09906)))
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text user K (at 2.3495 2.14884) (layer F.SilkS)
-    (effects (font (size 0.50038 0.50038) (thickness 0.09906)))
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -1.09982 -1.24968) (end -1.19888 -1.24968) (layer F.SilkS) (width 0.15))
   (fp_line (start -1.09982 1.24968) (end -1.19888 1.24968) (layer F.SilkS) (width 0.15))
@@ -28,7 +28,7 @@
   (fp_line (start 1.19888 1.24968) (end -1.04902 1.24968) (layer F.SilkS) (width 0.15))
   (pad 1 smd rect (at -3.40106 0) (size 3.50012 2.70002) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 3.40106 0) (size 3.50012 2.70002) (layers F.Cu F.Paste F.Mask))
-  (model Diodes_SMD/Diode-MELF.wrl
+  (model Diodes_SMD/Diode-MELF_Handsoldering.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
