@@ -3,10 +3,10 @@
   (descr "Diode, SOT23, Handsoldering, RevA, 03Aug2010,")
   (tags "Diode, SOT23, Handsoldering, RevA, 03Aug2010,")
   (attr smd)
-  (fp_text reference Diode_SOT23_Handsoldering (at 0 -3.81) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -3.81) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 3.81) (layer F.SilkS) hide
+  (fp_text value Diode_SOT23_Handsoldering (at 0 3.81) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -1.09982 0.0508) (end -1.09982 -0.65024) (layer F.SilkS) (width 0.15))
