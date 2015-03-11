@@ -1,4 +1,4 @@
-(module Diodes_SMD:Diode-DO-214BA (layer F.Cu) (tedit 54DF7BCF)
+(module Diode-DO-214BA (layer F.Cu) (tedit 54DF7BCF)
   (descr "Microsemi LSM115J")
   (tags "DO-214BA diode")
   (fp_text reference REF** (at 0 -3) (layer F.SilkS)
