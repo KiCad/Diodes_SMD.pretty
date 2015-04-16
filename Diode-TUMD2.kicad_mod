@@ -1,6 +1,7 @@
 (module Diode-TUMD2 (layer F.Cu) (tedit 552FF7F5)
   (descr "ROHM - TUMD2")
   (tags TUMD2)
+  (attr smd)
   (fp_text reference REF** (at 0 -1.85) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
