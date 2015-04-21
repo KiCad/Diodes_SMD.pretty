@@ -36,7 +36,7 @@
   (fp_line (start 2.30124 -1.99898) (end 2.30124 -1.80086) (layer F.SilkS) (width 0.15))
   (pad 1 smd rect (at -2.14884 0) (size 2.49936 2.30124) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 2.14884 0) (size 2.49936 2.30124) (layers F.Cu F.Paste F.Mask))
-  (model Diodes_SMD/Diode-SMB_Standard.wrl
+  (model Diodes_SMD.3dshapes/Diode-SMB_Standard.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))

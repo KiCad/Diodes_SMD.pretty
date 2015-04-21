@@ -27,7 +27,7 @@
   )
   (pad 1 smd rect (at -2.75082 0) (size 3.29946 1.69926) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 2.75082 0) (size 3.29946 1.69926) (layers F.Cu F.Paste F.Mask))
-  (model Diodes_SMD/Diode-MiniMELF_Handsoldering.wrl
+  (model Diodes_SMD.3dshapes/Diode-MiniMELF_Handsoldering.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
