@@ -1,11 +1,11 @@
-(module Diode-MELF_Handsoldering (layer F.Cu) (tedit 552FE6B7)
+(module MELF_Handsoldering (layer F.Cu) (tedit 552FE6B7)
   (descr "Diode MELF Handsoldering")
   (tags "Diode MELF Handsoldering")
   (attr smd)
   (fp_text reference REF** (at 0 -2.54) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Diode-MELF_Handsoldering (at 0 3.81) (layer F.Fab)
+  (fp_text value MELF_Handsoldering (at 0 3.81) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -5.4 -1.6) (end 5.4 -1.6) (layer F.CrtYd) (width 0.05))
@@ -31,7 +31,7 @@
   (fp_line (start 1.19888 1.24968) (end -1.04902 1.24968) (layer F.SilkS) (width 0.15))
   (pad 1 smd rect (at -3.40106 0) (size 3.50012 2.70002) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 3.40106 0) (size 3.50012 2.70002) (layers F.Cu F.Paste F.Mask))
-  (model Diodes_SMD.3dshapes/Diode-MELF_Handsoldering.wrl
+  (model Diodes_SMD.3dshapes/MELF_Handsoldering.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 180))

@@ -1,11 +1,11 @@
-(module Diode-SMC_Handsoldering (layer F.Cu) (tedit 552FF3F2)
+(module SMC_Handsoldering (layer F.Cu) (tedit 552FF3F2)
   (descr "Diode SMC Handsoldering")
   (tags "Diode SMC Handsoldering")
   (attr smd)
   (fp_text reference REF** (at 0 -4.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Diode-SMC_Handsoldering (at 0 5.08) (layer F.Fab)
+  (fp_text value SMC_Handsoldering (at 0 5.08) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 6.9 3.65) (end -6.9 3.65) (layer F.CrtYd) (width 0.05))
@@ -31,7 +31,7 @@
   (fp_line (start -3.59918 -3.40106) (end 3.59918 -3.40106) (layer F.SilkS) (width 0.15))
   (pad 1 smd rect (at -4.39928 0 90) (size 3.29946 4.50088) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 4.39928 0 90) (size 3.29946 4.49834) (layers F.Cu F.Paste F.Mask))
-  (model Diodes_SMD.3dshapes/Diode-SMC_Handsoldering.wrl
+  (model Diodes_SMD.3dshapes/SMC_Handsoldering.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 180))
