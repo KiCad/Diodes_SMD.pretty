@@ -29,7 +29,7 @@
   (fp_line (start -2 1) (end 1 1) (layer F.SilkS) (width 0.15))
   (pad 1 smd rect (at -0.85 0 180) (size 2.4 1.5) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 1.525 0 180) (size 1.05 1.5) (layers F.Cu F.Paste F.Mask))
-  (model Diodes_SMD.3dshapes/POWERDI-123.wrl
+  (model Diodes_SMD.3dshapes/PowerDI-123.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
