@@ -1,6 +1,6 @@
 (module D_SMC-RM10_Universal_Handsoldering (layer F.Cu) (tedit 58643524)
-  (descr "Diode, Universal, SMC, RM10, Handsoldering, SMD, Thruhole,")
-  (tags "Diode Universal SMC RM10 Handsoldering SMD Thruhole ")
+  (descr "Diode, Universal, SMC, RM10, Handsoldering, SMD, Thruhole, = DO-214AB")
+  (tags "Diode Universal SMC RM10 Handsoldering SMD Thruhole DO-214AB ")
   (fp_text reference REF** (at 0 -5.08) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

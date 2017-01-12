@@ -1,6 +1,6 @@
 (module D_SMC_Standard (layer F.Cu) (tedit 5864295D)
-  (descr "Diode SMC Standard")
-  (tags "Diode SMC Standard")
+  (descr "Diode SMC Standard = DO-214AB")
+  (tags "Diode SMC Standard DO-214AB")
   (attr smd)
   (fp_text reference REF** (at 0 -4.7) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
