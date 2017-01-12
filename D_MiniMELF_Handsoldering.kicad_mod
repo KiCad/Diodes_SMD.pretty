@@ -1,11 +1,11 @@
-(module MiniMELF_Handsoldering (layer F.Cu) (tedit 586459CA)
+(module D_MiniMELF_Handsoldering (layer F.Cu) (tedit 586459CA)
   (descr "Diode Mini-MELF Handsoldering")
   (tags "Diode Mini-MELF Handsoldering")
   (attr smd)
   (fp_text reference REF** (at 0 -2.54) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value MiniMELF_Handsoldering (at 0 3.81) (layer F.Fab)
+  (fp_text value D_MiniMELF_Handsoldering (at 0 3.81) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 2.75 -1) (end -4.55 -1) (layer F.SilkS) (width 0.12))
@@ -28,7 +28,7 @@
   (fp_line (start -4.65 1.1) (end -4.65 -1.1) (layer F.CrtYd) (width 0.05))
   (pad 1 smd rect (at -2.75 0) (size 3.3 1.7) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 2.75 0) (size 3.3 1.7) (layers F.Cu F.Paste F.Mask))
-  (model Diodes_SMD.3dshapes/MiniMELF_Handsoldering.wrl
+  (model Diodes_SMD.3dshapes/D_MiniMELF_Handsoldering.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 180))
