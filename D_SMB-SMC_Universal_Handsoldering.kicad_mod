@@ -1,11 +1,11 @@
-(module SMB-SMC_Universal_Handsoldering (layer F.Cu) (tedit 586436A6)
+(module D_SMB-SMC_Universal_Handsoldering (layer F.Cu) (tedit 586436A6)
   (descr "Diode, Universal, SMB, SMC, Handsoldering,")
   (tags "Diode Universal SMB SMC Handsoldering ")
   (attr smd)
   (fp_text reference REF** (at 0 -4.05) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value SMB-SMC_Universal_Handsoldering (at 0 4.1) (layer F.Fab)
+  (fp_text value D_SMB-SMC_Universal_Handsoldering (at 0 4.1) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -5.5 3.25) (end -5.5 -3.25) (layer F.SilkS) (width 0.12))
@@ -31,7 +31,7 @@
   (fp_line (start -5.5 -3.25) (end 4.4 -3.25) (layer F.SilkS) (width 0.12))
   (pad 1 smd trapezoid (at -3.2 0) (size 4.3 2.6) (rect_delta 1 0 ) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd trapezoid (at 3.2 0 180) (size 4.3 2.6) (rect_delta 1 0 ) (layers F.Cu F.Paste F.Mask))
-  (model Diodes_SMD.3dshapes/SMB-SMC_Universal_Handsoldering.wrl
+  (model Diodes_SMD.3dshapes/D_SMB-SMC_Universal_Handsoldering.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 180))

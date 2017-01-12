@@ -1,11 +1,11 @@
-(module SOD-323_HandSoldering (layer F.Cu) (tedit 58641869)
+(module D_SOD-323_HandSoldering (layer F.Cu) (tedit 58641869)
   (descr SOD-323)
   (tags SOD-323)
   (attr smd)
   (fp_text reference REF** (at 0 -1.85) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value SOD-323_HandSoldering (at 0.1 1.9) (layer F.Fab)
+  (fp_text value D_SOD-323_HandSoldering (at 0.1 1.9) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -1.9 -0.85) (end -1.9 0.85) (layer F.SilkS) (width 0.12))
@@ -27,7 +27,7 @@
   (fp_line (start -1.9 -0.85) (end 1.25 -0.85) (layer F.SilkS) (width 0.12))
   (pad 1 smd rect (at -1.25 0) (size 1 1) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 1.25 0) (size 1 1) (layers F.Cu F.Paste F.Mask))
-  (model Diodes_SMD.3dshapes/SOD-323.wrl
+  (model Diodes_SMD.3dshapes/D_SOD-323.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 180))
