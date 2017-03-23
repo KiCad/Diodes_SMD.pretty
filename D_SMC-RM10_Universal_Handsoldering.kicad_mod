@@ -26,9 +26,9 @@
   (fp_line (start -6.8 -3.25) (end 4.4 -3.25) (layer F.SilkS) (width 0.12))
   (pad 1 thru_hole rect (at -5 0) (size 4.5 3.3) (drill 1.2 (offset 0.6 0)) (layers *.Cu *.Mask))
   (pad 2 thru_hole rect (at 5 0 180) (size 4.5 3.3) (drill 1.2 (offset 0.6 0)) (layers *.Cu *.Mask))
-  (model Diodes_SMD.3dshapes/D_SMC-RM10_Universal_Handsoldering.wrl
+  (model Diodes_SMD.3dshapes/D_SMC_Standard.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.3937 0.3937 0.3937))
-    (rotate (xyz 0 0 180))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
   )
 )
