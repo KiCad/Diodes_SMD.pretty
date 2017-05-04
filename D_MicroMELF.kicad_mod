@@ -1,11 +1,11 @@
-(module D_MicroMELF_Standard (layer F.Cu) (tedit 5905DB79)
+(module D_MicroMELF (layer F.Cu) (tedit 5905DB79)
   (descr "Diode, MicroMELF, http://www.vishay.com/docs/85597/bzm55-se.pdf")
   (tags "MicroMELF Diode")
   (attr smd)
   (fp_text reference REF** (at 0 -1.6) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value D_MicroMELF_Standard (at 0 1.55) (layer F.Fab)
+  (fp_text value D_MicroMELF (at 0 1.55) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 1.1 -0.9) (end -1.7 -0.9) (layer F.SilkS) (width 0.12))
@@ -31,7 +31,7 @@
   (fp_line (start 1.8 1) (end -1.8 1) (layer F.CrtYd) (width 0.05))
   (pad 1 smd rect (at -0.95 0) (size 1.2 1.5) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 0.95 0) (size 1.2 1.5) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Diodes_SMD.3dshapes/D_MicroMELF_Standard.wrl
+  (model ${KISYS3DMOD}/Diodes_SMD.3dshapes/D_MicroMELF.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
