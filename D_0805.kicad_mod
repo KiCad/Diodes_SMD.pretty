@@ -1,5 +1,5 @@
 (module D_0805 (layer F.Cu) (tedit 586A4032)
-  (descr "Diode SMD in 0805 package")
+  (descr "Diode SMD in 0805 package http://datasheets.avx.com/schottky.pdf")
   (tags "smd diode")
   (attr smd)
   (fp_text reference REF** (at 0 -1.6) (layer F.SilkS)

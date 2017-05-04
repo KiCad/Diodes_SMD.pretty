@@ -1,5 +1,5 @@
 (module D_1206 (layer F.Cu) (tedit 587F7EF9)
-  (descr "Diode SMD 1206, reflow soldering")
+  (descr "Diode SMD 1206, reflow soldering http://datasheets.avx.com/schottky.pdf")
   (tags "Diode 1206")
   (attr smd)
   (fp_text reference REF** (at 0 -1.8) (layer F.SilkS)
