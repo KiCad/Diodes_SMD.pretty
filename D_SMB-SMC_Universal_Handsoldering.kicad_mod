@@ -1,6 +1,6 @@
 (module D_SMB-SMC_Universal_Handsoldering (layer F.Cu) (tedit 586436A6)
-  (descr "Diode, Universal, SMB, SMC, Handsoldering,")
-  (tags "Diode Universal SMB SMC Handsoldering ")
+  (descr "Diode, Universal, SMB(DO-214AA) or SMC (DO-214AA), Handsoldering,")
+  (tags "Diode Universal SMB(DO-214AA) SMC (DO-214AA) Handsoldering ")
   (attr smd)
   (fp_text reference REF** (at 0 -4.1) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
