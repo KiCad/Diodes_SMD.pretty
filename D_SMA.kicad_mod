@@ -1,6 +1,6 @@
 (module D_SMA (layer F.Cu) (tedit 586432E5)
-  (descr "Diode SMA")
-  (tags "Diode SMA")
+  (descr "Diode SMA (DO-214AC)")
+  (tags "Diode SMA (DO-214AC)")
   (attr smd)
   (fp_text reference REF** (at 0 -2.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
