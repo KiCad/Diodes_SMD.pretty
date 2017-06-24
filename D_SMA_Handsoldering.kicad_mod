@@ -1,6 +1,6 @@
 (module D_SMA_Handsoldering (layer F.Cu) (tedit 58643398)
-  (descr "Diode SMA Handsoldering")
-  (tags "Diode SMA Handsoldering")
+  (descr "Diode SMA (DO-214AC) Handsoldering")
+  (tags "Diode SMA (DO-214AC) Handsoldering")
   (attr smd)
   (fp_text reference REF** (at 0 -2.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
