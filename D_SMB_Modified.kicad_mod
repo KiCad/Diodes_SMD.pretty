@@ -1,4 +1,4 @@
-(module D_SMB_Modified (layer F.Cu) (tedit 598B977C)
+(module D_SMB_Modified (layer F.Cu) (tedit 598CAEE3)
   (descr "Diode SMB (DO-214AA) Modified (http://www.littelfuse.com/~/media/electronics/datasheets/sidactors/littelfuse_sidactor_battrax_positive_negative_modified_do_214_datasheet.pdf.pdf)")
   (tags "Diode SMB (DO-214AA)")
   (attr smd)
